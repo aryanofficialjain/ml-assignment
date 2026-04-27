@@ -2,7 +2,8 @@
 
 A production-style system for evaluating student answers using rule-guided LLM logic.
 
-## Approach
+## Approach<img width="1280" height="828" alt="Screenshot 2026-04-27 at 3 50 16 PM" src="https://github.com/user-attachments/assets/64063a23-a38e-4640-876c-e75718ac31e2" />
+
 
 - **Keyword-based rubric retrieval**: Automatically maps questions to the correct evaluation criteria.
 - **Structured rubric design**: Pre-defined marking schemes for Physics, Math, and English.
